@@ -37,7 +37,7 @@ const App = () => {
           transition={{ duration: 1 }}
           className="text-4xl md:text-6xl font-bold mb-4 text-center bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-blue-500"
         >
-          Welcome, I am Liel
+          Welcome to My Portfolio
         </motion.h1>
         
         <motion.p 
@@ -46,7 +46,7 @@ const App = () => {
           transition={{ delay: 0.5, duration: 1 }}
           className="text-lg md:text-xl text-gray-300 mb-8 text-center max-w-sm md:max-w-2xl px-4"
         >
-          Like the night that inspires my name, I craft digital experiences that blend mystery and elegance
+          Crafting digital experiences that blend creativity and innovation
         </motion.p>
 
         <motion.button
