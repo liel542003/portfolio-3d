@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/portfolio-3d/',
+  base: '/liel-portfolio-3d/',
   server: {
     port: 5173,
     strictPort: false,
